@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="315f9f96-8092-4765-b2df-52736ece2c69" name="environmental_data Mapping">
+      <data-sources db="4af427e1-278c-40a4-93b3-5b27d37484bb" ddl="087fe559-9507-4e94-93fa-6c080bb8acf6" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="087fe559-9507-4e94-93fa-6c080bb8acf6" />
+          <option name="name" value="environmental_data (DDL)" />
+          <option name="dbmsName" value="SQLITE" />
+          <option name="urls">
+            <array />
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
